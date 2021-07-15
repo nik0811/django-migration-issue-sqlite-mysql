@@ -53,7 +53,7 @@ def skip_default(self, field):
         )
 schema.DatabaseSchemaEditor.skip_default=skip_default
 ```
-##And Again Do Migration:
+## And Again Do Migration:
 
 ```
 python manage.py migrate --database slave
