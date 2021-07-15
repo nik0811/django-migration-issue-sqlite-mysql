@@ -1,0 +1,1 @@
+# django-migration-issue-sqlite-mysql
